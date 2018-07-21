@@ -4,3 +4,5 @@ This is a 100 days Algorithm Challenge inspired by Tomáš Bouda's https://mediu
 Day 01 : Tower of Hanoi
 
 Day 02 : Chain Matrix Multiplication
+
+Day 03 : Next Permutation
